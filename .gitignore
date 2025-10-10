@@ -1,0 +1,13 @@
+Library/
+Packages/
+.vscode/
+Assets/Settings
+ProjectSettings/
+Temp/
+UserSettings/
+
+**/Logs
+
+**/*.csproj
+**/*.sln
+**/*.meta
