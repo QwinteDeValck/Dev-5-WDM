@@ -1,7 +1,14 @@
 Library/
 Packages/
 .vscode/
+
 Assets/Settings
+Assets/Azerilo
+Assets/BrokenVector
+Assets/FastMesh
+Assets/Loading Games
+Assets/Scenes/SampleScene.unity
+
 ProjectSettings/
 Temp/
 UserSettings/
